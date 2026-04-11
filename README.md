@@ -7,8 +7,6 @@ This project shows an E-commerce customer insight dashboard created using power 
 https://github.com/lavatedipali05-arch/E-Commerce-Customer-Insights-Dashboard
 
 ## 📊 Project Overview
-
-## 📊 Project Overview
 This project presents an interactive E-commerce Customer Insights Dashboard created using Power BI.  
 It helps analyze customer behavior, income, time spent, and location-based insights.
 
