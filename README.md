@@ -30,7 +30,7 @@ It helps analyze customer behavior, income, time spent, and location-based insig
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+![Dashboard Preview](https://github.com/lavatedipali05-arch/E-Commerce-Customer-Insights-Dashboard-/blob/main/Screenshot%202026-04-10%20202559.png)
 
 ---
 
